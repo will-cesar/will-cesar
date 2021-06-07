@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Front-end developer since 2017</li>
   <li>🎓 Graduated in Informática para Negócios - Fatec</li>
-  <li>🏡 Santo André - SP</li>
+  <li>🏡 Santo André - SP - Brazil</li>
   <li>👨‍💻 <a href="https://william-cesar.netlify.app/" target="_blank">My portfolio</a></li>
 </ul>
 
